@@ -99,8 +99,8 @@ item.CoalDust.name=Угленная пыль
 item.PrunaeSeeds.name=Семена чернослива (Prune?) *
 tile.CropPrunae.name=Растение чернослива  *
 
-item.FiddledewFruit.name=Fiddledew Fruit
-tile.CropFiddledew.name=Fiddledew Plant
+item.FiddledewFruit.name=Фидддлэдев фрукт (WAT? :D)
+tile.CropFiddledew.name=Фидддлэдев растение
 
 //amethyst tree
 tile.AmethystLog.name=Аметистовое дерево
@@ -403,93 +403,93 @@ generator.redstone=Редстоуновский уровень
 generator.glowstone=Глоустоновский уровень
 
 //new
-planting.basic=Planted with Basic Greenhouse or Higher
-planting.advanced=Planted with Advanced Greenhouse or Higher
-planting.flawless=Planted with Flawless Greenhouse
-tile.ResearchChamber.name=Research Chamber
-tile.ManipulationChamber.name=Manipulation Chamber
-research.recipe=Recipes
-research.recipeNew=New Recipes Discovered
-research.sync=Sync
-research.stored=Stored
-item.Recipe.name=Recipe
-research.invalid=Invalid Item
-research.newRecipes=New Recipes
+planting.basic=Посаженно с базогового парника или выше
+planting.advanced=Посаженно с продвинутого парника или выше
+planting.flawless=Посаженно с безупречного парника
+tile.ResearchChamber.name=Камера изучения
+tile.ManipulationChamber.name=Камера манипуляции
+research.recipe=Рецепты
+research.recipeNew=Обнаружены новые рецепты
+research.sync=Синхронизованно
+research.stored=Сохраненно
+item.Recipe.name=Рецепт
+research.invalid=Недействительный предмет
+research.newRecipes=Новый рецепт
 
-info.standard=Standard
-info.unlocked=Unlocked
-tile.ReinforcedStoneBrick.name=Reinforced Stone Bricks
-tile.ReinforcedDirtBrick.name=Reinforced Dirt Bricks
-death.attack.stone=%1$s was hit by a Stone
-tile.Transmitter.name=Transmitter
-tile.TransmitterBlock.name=Transmitter
-tile.WeatherStation.name=Weather Station
-tile.WeatherStationBlock.name=Weather Station
-lightning.day=Day
-lightning.night=Night
-lightning.time=Time
-lightning.rain=Rain
-lightning.seconds=seconds
-buttons.circuits=Remove Circuits
-buttons.pause=Pause
-buttons.resume=Resume
-buttons.confirm=Confirm
+info.standard=Стандарт
+info.unlocked=Разблокирован
+tile.ReinforcedStoneBrick.name=Укрепленный камень
+tile.ReinforcedDirtBrick.name=Укрепленная земля
+death.attack.stone=%1$s был убит Камнем!
+tile.Transmitter.name=Передатчик
+tile.TransmitterBlock.name=Передатчик
+tile.WeatherStation.name=Станция погоды
+tile.WeatherStationBlock.name=Станция погоды
+lightning.day=День
+lightning.night=Ночь
+lightning.time=Время
+lightning.rain=Дождь
+lightning.seconds=секунда
+buttons.circuits=Удалена схема
+buttons.pause=Пауза
+buttons.resume=Продолжение
+buttons.confirm=Подвержденние
 
 
-controller.name=Master
-controller.default=Default
-controller.users=Shared Users
-controller.receive=Receive Mode
-controller.receive.even=Even Distribution
-controller.receive.surge=Surge
-controller.receive.hyper=Hyper-Surge
-controller.receive.god=God-Mode
-controller.send=Send Mode
-controller.send.large=Largest First
-controller.send.small=Smallest First
-controller.transmitter=Transmitter Mode
-tile.RainSensor.name=Rain Sensor
-tile.WeatherController.name=Weather Controller
-tile.AmethystFence.name=Amethyst Fence
-tile.TanzaniteFence.name=Tanzanite Fence
-tile.PearFence.name=Pear Fence
-tile.DiamondFence.name=Diamond Fence
-weather.time=Time
-weather.day=Day
-weather.night=Night
-weather.rain=Rain
-weather.thunder=Thunder
+controller.name=Мастер
+controller.default=Обычный
+controller.users=Общие пользователи
+controller.receive=Режим приема
+controller.receive.even=Равномерное распределение
+controller.receive.surge=Волна
+controller.receive.hyper=Хайпер-Волна
+controller.receive.god=Режим бога
+controller.send=Режим отправки
+controller.send.large=Огромный
+controller.send.small=Маленький
+controller.transmitter=Режим передатчика
+tile.RainSensor.name=Сенсор дождя
+tile.WeatherController.name=Контроллер погоды
+tile.AmethystFence.name=Забор из аметиста
+tile.TanzaniteFence.name=Забор из танзанита
+tile.PearFence.name=Забор из груши
+tile.DiamondFence.name=Забор из алмаза
+weather.time=Время
+weather.day=День
+weather.night=Ночь
+weather.rain=Дождь
+weather.thunder=Гроза
 state.on=On
 state.off=Off
-tile.StableGlass.name=Stable Glass
-tile.ClearStableGlass.name=Clear Stable Glass
-tile.MagneticFlux.name=Magnetic Flux
-tile.DockingStation.name=Docking Station
-docking.noCalculator=No Calculator is mounted
-tile.CalculatorTeleporter.name=Teleporter
-tile.StoneAssimilator.name=Stone Assimilator
-tile.AlgorithmAssimilator.name=Algorithm Assimilator
-tile.FlawlessFurnace.name=Flawless Furnace
+tile.StableGlass.name=Глажкое стекло
+tile.ClearStableGlass.name=Чистое гладкое стекло
+tile.MagneticFlux.name=Магнитный поток
+tile.DockingStation.name=Станция стыковки
+docking.noCalculator=Не установлен калькулятор
+tile.CalculatorTeleporter.name=Телепортер
+tile.StoneAssimilator.name=Каменный ассимилятор
+tile.AlgorithmAssimilator.name=Алгоритмический ассимилятор
+tile.FlawlessFurnace.name=Безупречная печка
 
 
 //new
-item.WarpModule.name=Warp Module
-item.JumpModule.name=Jump Module
-tile.ModuleWorkstation.name=Module Workstation
-tile.FabricationChamber.name=Fabrication Chamber
-item.TransferUpgrade.name=Transfer Upgrade
-item.FlawlessAssembly.name=Flawless Assembly
-tile.ReinforcedChest.name=Reinforced Chest
-tile.AmethystPiping.name=Amethyst Piping
-tile.TanzanitePiping.name=Tanzanite Piping
-tile.CreativePowerCube.name=Creative Power Cube
+item.WarpModule.name=Модуль "Бездна"
+item.JumpModule.name=Модуль "Прыжка"
+tile.ModuleWorkstation.name=Модуль рабочей станции
+tile.FabricationChamber.name=Камера изготовления
+item.TransferUpgrade.name=Улучшение передачи
+item.FlawlessAssembly.name=Безупречная сборка
+tile.ReinforcedChest.name=Укрепленный сундук
+tile.AmethystPiping.name=Аметистовая труба
+tile.TanzanitePiping.name=Танзанитовая труба
+tile.CreativePowerCube.name=Креативный ЭнергоКуб
 
 
 
 
-info.Calculator.name=A portable device capable of adding two items together-By combining their properties it can create new items!-It requires RF to function, it can be charged in the Power Cube-It uses 1 RF per item-More Recipes can be unlocked with the Research Chamber-The Calculator is required to progress to the more powerful Scientific Calculator-Note: Calculators will keep their inventory
+info.Calculator.name=Портативное устройство, которое способна соединять два элемента, тем самым на выходе получаем элемент, в котором есть свойство "родителей". Использует RF для своей работы. Вы также можете зарядить в любом хранителе! Тратит 1-ну единицу RF за операцию. Больше рецептов может быть разблокированно в Камере исследования. Калькулятор требуется для крафта более мощных калькуляторов. Заметка: Вещи не выпадают!
 
-info.CraftingCalculator.name=A portable device which provides Portable Crafting-It requires RF to function, it can be charged in the Power Cube-It uses 1 RF per item-Note: Calculators will keep their inventory
+info.CraftingCalculator.name=Портативное устройство для ванильных крафтов. Использует RF для работы, можно зарядить в любом хранителе. Заметка: Вещи не выпадают
 
 info.ScientificCalculator.name=A portable device capable of dividing two items together-By removing useless properties it can create new more powerful items!-It requires RF to function, it can be charged in the Power Cube-It uses 1 RF per item-More Recipes can be unlocked with the Research Chamber-The Scientific Calculator is required to progress to the more powerful Atomic Calculator-Note: Calculators will keep their inventory
 
