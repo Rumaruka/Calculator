@@ -491,7 +491,7 @@ info.Calculator.name=Портативное устройство, которое
 
 info.CraftingCalculator.name=Портативное устройство для ванильных крафтов. Использует RF для работы, можно зарядить в любом хранителе. Заметка: Вещи не выпадают
 
-info.ScientificCalculator.name=A portable device capable of dividing two items together-By removing useless properties it can create new more powerful items!-It requires RF to function, it can be charged in the Power Cube-It uses 1 RF per item-More Recipes can be unlocked with the Research Chamber-The Scientific Calculator is required to progress to the more powerful Atomic Calculator-Note: Calculators will keep their inventory
+info.ScientificCalculator.name=Портативное устройство, которая способна разделив 2 предмета , удаляя ненужные свойства, создать более мощный элемент. Требует RF для работы и может быть заряжен в любых хранителях. Рецепты могут быть разблокированы в Научно Ислледовательских камерах. Требуется для создание более мощных калькуляторов (Атомным). Заметка: Предметы из калькулятора не падают
 
 info.FlawlessCalculator.name=A flawless device, both in design and function-It is capable of combining up to 16 different modules together to create the perfect Calculator-You can switch between the installed modules by shift right clicking-Modules can be added and removed with the Module Workstation-The Flawless Calculator comes with some modules already installed specifically Flawless Crafting. Which is used for combining 4 items together
 
